@@ -48,6 +48,6 @@ six==1.16.0
 sklearn==0.0
 sseclient==0.0.27
 threadpoolctl==2.2.0
-urllib3==1.26.6
+urllib3==1.26.17
 Werkzeug==2.0.1
 wrapt==1.12.1
